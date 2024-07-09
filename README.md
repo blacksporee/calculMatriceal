@@ -1,6 +1,4 @@
 # calculMatriceal
-A simple python notebook that can compute the inverse of a matrix and their lower/upper 
-
 Metode directe de rezolvare a sistemelor liniare: descompunere Choleski, metoda Gauss-Jordan
 
 Programul poate fi folosit in scopul de a: efectua calculul inversei unei matrici prin metoda Gauss-Jordan, descompunerea in matrice LU prin metoda directa si Cholesky si de a compara eficienta celor doua metode.
